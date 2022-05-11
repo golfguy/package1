@@ -1,0 +1,20 @@
+ {
+    "name": "golfguy/package1",
+    "description": "this is the desc",
+    "autoload": {
+        "psr-4": {
+            "csgardner\\App\\": "src"
+        },
+        "files": [
+        ]
+    },
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "cliff gardner",
+            "email": "cliff@csgardner.com"
+        }
+    ],
+    "require": {}
+}
