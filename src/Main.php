@@ -1,5 +1,5 @@
 <?php
-    namespace csgardner\App;
+    namespace golfguy\HelloWorldPackage;
 
     class Main {
         public static function sayHello()

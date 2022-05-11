@@ -3,7 +3,7 @@
     "description": "this is the desc",
     "autoload": {
         "psr-4": {
-            "csgardner\\App\\": "src"
+            "golfguy\\HelloWorldPackage\\": "src"
         },
         "files": [
         ]

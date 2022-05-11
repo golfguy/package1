@@ -2,6 +2,6 @@
 
 require_once 'vendor/autoload.php';
 
-$class = new \csgardner\App\Main();
+$class = new \golfguy\HelloWorldPackage\Main();
 
 $class::sayHello();
